@@ -29,5 +29,5 @@ if __name__=="__main__":
     print(Item(2000,discount_strategy=ten_percent_discount))
     print(Item(2000,discount_strategy=mega_discount))
     
- 
-                 
+# https://stackabuse.com/structural-design-patterns-in-python/#facade
+# https://stackabuse.com/creational-design-patterns-in-python/#factory
